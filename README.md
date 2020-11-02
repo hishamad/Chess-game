@@ -1,6 +1,7 @@
 # Chess game built using Rust
 
-![chess](https://user-images.githubusercontent.com/67159193/97922982-9b52f000-1d5d-11eb-8836-467014631265.PNG)
+![Webp net-resizeimage](https://user-images.githubusercontent.com/67159193/97923383-2c29cb80-1d5e-11eb-8f97-384f69b6198f.png)
+
 
 
 
