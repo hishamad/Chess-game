@@ -153,9 +153,9 @@ impl event::EventHandler for MainState {
                 Some(piece) => piece.color,
                 None => self.game.curr_player,
             };
-            if piece_color == self.game.curr_player {
-                self.history.push((x, y));
-            }
+            
+            self.history.push((x, y));
+            
         }
     }
 }
